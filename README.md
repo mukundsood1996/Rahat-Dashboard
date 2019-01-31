@@ -1,1 +1,2 @@
-# Rahat-Dashboard
+# RahatDashboard
+Dashboard for Rahat
